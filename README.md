@@ -15,6 +15,7 @@ Created visualization that included map. Data consisted of latitude and longitud
 - Are some airports more prone to mishap than others?- How are they distributed?
 
 **Does this tell you anything about why they get more incidents?**
+
 I think number of factors affect the incident occurrence such as,
 - Busyness of the airport
 - Wildlife population, especially bird’s population in a given area.

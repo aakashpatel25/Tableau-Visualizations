@@ -19,5 +19,3 @@ Created visualization that included map. Data consisted of latitude and longitud
 I think number of factors affect the incident occurrence such as,
 - Busyness of the airport
 - Wildlife population, especially bird’s population in a given area.
-
-### FAA Wild Life Damage to Aircraft Using Weather Data

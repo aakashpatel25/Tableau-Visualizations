@@ -19,3 +19,14 @@ Created visualization that included map. Data consisted of latitude and longitud
 I think number of factors affect the incident occurrence such as,
 - Busyness of the airport
 - Wildlife population, especially bird’s population in a given area.
+
+
+#Basketball Data Visualization
+###Project with Tasleem Muzaffar and Matthew van Bommel.
+Check out our Tableau public demo at…
+
+https://public.tableau.com/views/NBASeason2015-2016TeamWin3PMASTBLKDashboadII-v2/Dashboard1?:embed=y&:display_count=yes
+
+https://public.tableau.com/views/NBA2015-2016TeamRadarPlot/Dashboard1?:embed=y&:display_count=yes
+
+https://public.tableau.com/views/TeamCompareAnalysis/Dashboard2?:embed=y&:display_count=yes
